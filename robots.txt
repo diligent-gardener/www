@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://diligent-gardener.github.io/www/sitemap.xml
