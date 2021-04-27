@@ -2,41 +2,40 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "勤之森園藝",
     "description": "",
-    "home_page_url": "https://diligent-gardener.github.io/www",
-    "feed_url": "https://diligent-gardener.github.io/www/feed.json",
+    "home_page_url": "https://diligent-gardener.svnsx.com",
+    "feed_url": "https://diligent-gardener.svnsx.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "謝明利"
     },
     "items": [
         {
-            "id": "https://diligent-gardener.github.io/www/ke-hu-an-li-1.html",
-            "url": "https://diligent-gardener.github.io/www/ke-hu-an-li-1.html",
-            "title": "客戶案例1",
-            "summary": "草 ",
-            "content_html": "<p>草</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://diligent-gardener.github.io/www/media/posts/2/lawn-mower-414249_640.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-xs.jpg 300w ,https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-sm.jpg 480w ,https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-md.jpg 768w ,https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-lg.jpg 1024w ,https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-xl.jpg 1360w ,https://diligent-gardener.github.io/www/media/posts/2/responsive/lawn-mower-414249_640-2xl.jpg 1600w\"  alt=\"\" width=\"640\" height=\"426\"></figure>",
+            "id": "https://diligent-gardener.svnsx.com/lian-luo-fang-shi.html",
+            "url": "https://diligent-gardener.svnsx.com/lian-luo-fang-shi.html",
+            "title": "聯絡方式",
+            "summary": "謝明利 0935-988471 週一至週六 08:00~20:00 全省 詢問報價",
+            "content_html": "<h2 class=\"align-center\">謝明利</h2>\n<p class=\"align-center\">0935-988471</p>\n<h3 class=\"align-center\">聯絡時間</h3>\n<p class=\"align-center\">週一至週六 08:00~20:00</p>\n<h3 class=\"align-center\">服務範圍</h3>\n<p class=\"align-center\">全省</p>\n<h3 class=\"align-center\"><a href=\"https://forms.gle/wmsbDdDcjsuviaNh7\" target=\"_blank\" rel=\"noopener noreferrer\">詢問報價</a></h3>",
             "author": {
                 "name": "謝明利"
             },
             "tags": [
-                   "客戶案例"
             ],
-            "date_published": "2021-04-16T23:33:20+07:00",
-            "date_modified": "2021-04-16T23:33:33+07:00"
+            "date_published": "2021-04-27T23:12:05+07:00",
+            "date_modified": "2021-04-27T23:14:54+07:00"
         },
         {
-            "id": "https://diligent-gardener.github.io/www/zhuan-ye-xiu-jian.html",
-            "url": "https://diligent-gardener.github.io/www/zhuan-ye-xiu-jian.html",
-            "title": "專業修剪",
-            "summary": "修剪樹木是指清除樹上多餘的枝幹，以減少這些枝幹對公眾造成的危險和不便、維持或改善樹木的健康和結構，或改善樹木的外觀。不適當地修剪樹木，除了破壞樹木的外觀和妨礙樹木健康成長外，更可能對樹木造成難以復原的損害 。 一般進行修剪樹木的目的可分為以下三大類： 修剪樹木工作大致上可以分為下列五類： 選擇性地修剪樹木的橫枝，使樹身強壯挺立、樹冠平衡勻稱，而且樹枝分佈平均、中央頂枝清楚分明。 選擇性地修剪樹枝以清除較低的樹枝，藉以增加地面與枝葉的垂直空間距離。 選擇性地修剪樹枝，以減少整個樹冠的高度和伸展範圍，保持樹木外形勻稱得宜、外觀自然優美。 選擇性地修剪樹枝，以清除樹上交疊枝、弱枝和枯枝，以減低樹葉密度。樹冠疏枝工作不應影響 樹木的整體高度和伸展範圍。 選擇性地修剪樹枝，以清除樹上的枯枝、受損或有病的樹枝。 專業的修剪工作應由曾受訓練的人士執行，並在具備園藝、樹藝和樹木護理專業知識和相關經驗的專家在場督導下進行。同時過程應採取相應的安全措施，以保障工人和公眾的安全。 如進行專業修剪服務，德泰能為客戶提供以下服務： 提供資深園藝工程人士及合資格的樹藝師進行評估及監督工作 因應客戶要求及實際情況，提供專業的意見、籌劃及執行整個樹木修剪工作 配合實地環境，提供合適的修剪機械、工具及配以合資格的專業人士操作 提供一站式的樹木風險評估、樹木修剪建議及專業修剪服務 ",
-            "content_html": "<p>修剪樹木是指清除樹上多餘的枝幹，以減少這些枝幹對公眾造成的危險和不便、維持或改善樹木的健康和結構，或改善樹木的外觀。不適當地修剪樹木，除了破壞樹木的外觀和妨礙樹木健康成長外，更可能對樹木造成難以復原的損害 。</p>\n<p> </p>\n<p>一般進行修剪樹木的目的可分為以下三大類：</p>\n<ul>\n<li><strong>減低對公眾造成的不便或危險</strong>\n<ul>\n<li>生長較低的樹枝或會遮擋駕車人士的視線，甚至阻礙行車通道，令大型車輛難以通過，故須把這些樹枝清除，確保道路暢通無阻和安全。</li>\n<li>確保架空電纜四周沒有障礙，可避免樹枝與電纜交纏</li>\n<li>一旦發現有可能會脫落並已枯萎的樹枝，便應立即清除，以免這些枯死、懸垂及已脫落的樹枝導致途人受傷或其財產受損。</li>\n</ul>\n</li>\n<li><strong>維持或改善樹木健康及結構</strong>\n<ul>\n<li>清除枯枝可減少害蟲病菌的溫床，從而減少害蟲病毒入侵的機會。</li>\n<li>剪除瘦弱的樹枝及由樹基生出但狀況欠佳的樹枝，可將養份集中供養健康的枝葉，避免浪費養料。</li>\n<li>去除過密的枝葉可令更多陽光及空氣從植物四周進入。</li>\n<li>縮減過密的樹枝，可減輕樹木的重量及減少面積，減低樹木被強風吹折的機會。如果樹木的扎根部分曾因移植或鄰近地區進行建造工程而不穩固，這項工作更加重要。</li>\n</ul>\n</li>\n<li><strong>改善樹木外觀</strong>\n<ul>\n<li>保持樹木優美的形態和勻稱的結構。</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p>修剪樹木工作大致上可以分為下列五類：</p>\n<ul>\n<li><strong>樹型修剪</strong></li>\n</ul>\n<p>選擇性地修剪樹木的橫枝，使樹身強壯挺立、樹冠平衡勻稱，而且樹枝分佈平均、中央頂枝清楚分明。</p>\n<ul>\n<li><strong>提升樹冠</strong></li>\n</ul>\n<p>選擇性地修剪樹枝以清除較低的樹枝，藉以增加地面與枝葉的垂直空間距離。</p>\n<ul>\n<li><strong>縮減樹冠</strong></li>\n</ul>\n<p>選擇性地修剪樹枝，以減少整個樹冠的高度和伸展範圍，保持樹木外形勻稱得宜、外觀自然優美。</p>\n<ul>\n<li><strong>樹冠疏枝</strong></li>\n</ul>\n<p>選擇性地修剪樹枝，以清除樹上交疊枝、弱枝和枯枝，以減低樹葉密度。樹冠疏枝工作不應影響 樹木的整體高度和伸展範圍。</p>\n<ul>\n<li><strong>清理樹冠</strong></li>\n</ul>\n<p>選擇性地修剪樹枝，以清除樹上的枯枝、受損或有病的樹枝。</p>\n<p> </p>\n<p>專業的修剪工作應由曾受訓練的人士執行，並在具備園藝、樹藝和樹木護理專業知識和相關經驗的專家在場督導下進行。同時過程應採取相應的安全措施，以保障工人和公眾的安全。</p>\n<p> </p>\n<p>如進行專業修剪服務，德泰能為客戶提供以下服務：</p>\n<ul>\n<li>提供資深園藝工程人士及合資格的樹藝師進行評估及監督工作</li>\n<li>因應客戶要求及實際情況，提供專業的意見、籌劃及執行整個樹木修剪工作</li>\n<li>配合實地環境，提供合適的修剪機械、工具及配以合資格的專業人士操作</li>\n<li>提供一站式的樹木風險評估、樹木修剪建議及專業修剪服務</li>\n</ul>",
+            "id": "https://diligent-gardener.svnsx.com/ying-ye-xiang-mu.html",
+            "url": "https://diligent-gardener.svnsx.com/ying-ye-xiang-mu.html",
+            "title": "營業項目",
+            "summary": "草皮養護 | 草皮修剪 | 草皮種植 台北草、地毯草、百慕達草、假儉草、玉龍草 黃楊、女貞、紅葉小檗、龍柏、側柏、木槿、黃刺梅、薔薇、竹子等 小葉欖仁、榕樹、果樹、肖楠、羅漢松、樟樹、台灣欒樹、茄苳、土肉桂、光臘樹 ",
+            "content_html": "<h2 class=\"align-center\">草皮養護 | 草皮修剪 | 草皮種植</h2>\n<p class=\"align-center\">台北草、地毯草、百慕達草、假儉草、玉龍草</p>\n<h2 class=\"align-center\">綠籬養護 | 綠籬修剪 | 綠籬種植</h2>\n<p class=\"align-center\">黃楊、女貞、紅葉小檗、龍柏、側柏、木槿、黃刺梅、薔薇、竹子等</p>\n<h2 class=\"align-center\">喬木修剪 | 喬木移除 | 喬木種植</h2>\n<p class=\"align-center\">小葉欖仁、榕樹、果樹、肖楠、羅漢松、樟樹、台灣欒樹、茄苳、土肉桂、光臘樹</p>\n<h2 class=\"align-center\">病蟲害防治 | 土壤養護 | 專業除草 | 雜草管理</h2>\n<p> </p>",
             "author": {
                 "name": "謝明利"
             },
             "tags": [
             ],
-            "date_published": "2021-04-16T23:24:06+07:00",
-            "date_modified": "2021-04-16T23:24:06+07:00"
+            "date_published": "2021-04-27T22:16:24+07:00",
+            "date_modified": "2021-04-27T22:47:15+07:00"
         }
     ]
 }

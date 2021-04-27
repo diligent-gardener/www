@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://diligent-gardener.github.io/www/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://diligent-gardener.svnsx.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://diligent-gardener.github.io/www/</loc>
+<loc>https://diligent-gardener.svnsx.com/</loc>
 </url>
 <url>
-<loc>https://diligent-gardener.github.io/www/ke-hu-an-li-1.html</loc>
-<lastmod>2021-04-16T23:33:33+07:00</lastmod>
-<image:image>
-<image:loc>https://diligent-gardener.github.io/www/media\posts\2/lawn-mower-414249_640.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
+<loc>https://diligent-gardener.svnsx.com/lian-luo-fang-shi.html</loc>
+<lastmod>2021-04-27T23:14:54+07:00</lastmod>
 </url>
 <url>
-<loc>https://diligent-gardener.github.io/www/zhuan-ye-xiu-jian.html</loc>
-<lastmod>2021-04-16T23:24:06+07:00</lastmod>
+<loc>https://diligent-gardener.svnsx.com/ying-ye-xiang-mu.html</loc>
+<lastmod>2021-04-27T22:47:15+07:00</lastmod>
 </url>
 </urlset>
